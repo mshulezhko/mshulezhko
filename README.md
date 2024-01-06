@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-grey)
 ![PHP](https://img.shields.io/badge/PHP-violet)
 
-## ✨ Fun Facts
-
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
-
 ## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mariia-shulezhko-68007b215/).

@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-violet)
 ![React](https://img.shields.io/badge/React-oran)
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![CSS](https://img.shields.io/badge/CSS-blue)

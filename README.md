@@ -4,6 +4,12 @@
 
 Hi, I'm Mariia Shulezhko🇺🇦. A passionate Front-end Developer based in Norway🇳🇴, Oslo. 📍
 
+---
+
+I am currently working to improve my skills and create a strong portfolio.👩‍💻
+
+---
+
 Check out my [website](https://whimsical-bublanina-a447ad.netlify.app/) to learn more about me.
 
 <!--
